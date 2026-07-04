@@ -148,7 +148,6 @@ WITH customer_type AS (...)
 
 * 📊 Clothing category generates highest revenue
 * 👥 Majority customers are non-subscribers
-* 💳 Payment methods like PayPal & Credit Card are most used
 * 🎯 Repeat customers contribute significantly to revenue
 * 📉 Subscription does not drastically increase spending but still valuable
 
