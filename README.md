@@ -175,8 +175,6 @@ WITH customer_type AS (...)
 ---
 
 
-It reflects real-world data analyst workflow and decision-making.
 
----
 
 
